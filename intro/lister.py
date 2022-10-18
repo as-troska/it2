@@ -12,6 +12,8 @@ print(talListe)
 talListe = list(range(0, 11, 2))
 print(talListe)
 
+#Treng du ei liste med alfabetet? https://datagy.io/python-list-alphabet/
+
 #Liste frå liste
 listen = liste
 liste.pop()
